@@ -24,7 +24,7 @@ if (value > 0) {
 
 let result = (a + b < 4)? 'Below' : 'Over';
 
-
+.
 /*4*/
 
 let mensagge = (login == 'Employee') ? 'Hello', (login == 'Director') ? 'Greetings'. (login == 'No login') ? '';
